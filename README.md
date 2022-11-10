@@ -10,8 +10,6 @@ To develop a convolutional autoencoder for image denoising application.
 
 ![nn](https://user-images.githubusercontent.com/65499285/200237286-29f2220e-c59c-4951-bf6f-3b353fd420ac.svg)
 
-<br><br><br><br><br><br><br><br><br><br>
-
 ## DESIGN STEPS
 
 ### Step 1:
@@ -31,8 +29,6 @@ Pass test data for validating manually.
 
 ### Step 6: 
 Plot the predictions for visualization.
-
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
@@ -124,8 +120,6 @@ for i in range(1, n + 1):
     ax.get_yaxis().set_visible(False)
 plt.show()
 ```
-
-<br><br><br><br>
 
 ## OUTPUT
 
