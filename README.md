@@ -32,6 +32,8 @@ Pass test data for validating manually.
 ### Step 6: 
 Plot the predictions for visualization.
 
+<br><br><br><br><br><br>
+
 ## PROGRAM
 ```python
 from tensorflow import keras
@@ -132,8 +134,6 @@ plt.show()
 ### Original vs Noisy Vs Reconstructed Image
 
 ![image](https://user-images.githubusercontent.com/75234991/201094987-cfdf94f5-f202-41c0-babe-04e1c77f69c5.png)
-
-<br><br><br>
 
 ## RESULT
 Thus, we have sucessfully implemented a Convolutional Auto Encoder for Denoising.
