@@ -10,7 +10,7 @@ To develop a convolutional autoencoder for image denoising application.
 
 ![nn](https://user-images.githubusercontent.com/65499285/200237286-29f2220e-c59c-4951-bf6f-3b353fd420ac.svg)
 
-<br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br>
 
 ## DESIGN STEPS
 
