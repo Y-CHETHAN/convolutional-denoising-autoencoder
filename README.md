@@ -32,7 +32,7 @@ Pass test data for validating manually.
 ### Step 6: 
 Plot the predictions for visualization.
 
-<br><br><br><br><br><br><br><br><br><br>
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
 ## PROGRAM
 ```python
